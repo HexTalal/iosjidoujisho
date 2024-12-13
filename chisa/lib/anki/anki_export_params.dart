@@ -26,11 +26,11 @@ class AnkiExportParams with ChangeNotifier {
   /// to be memorised from the card.
   String word;
 
-  /// reading or reading. May be overriden with some characteristics such
+  /// reading or reading. May be overridden with some characteristics such
   /// as pitch accent diagrams, by particular languages.
   String reading;
 
-  /// Definition or meaning. May be overriden with some characteristics such
+  /// Definition or meaning. May be overridden with some characteristics such
   /// as having meaning tags.
   String meaning;
 
