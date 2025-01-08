@@ -12,4 +12,4 @@ workflows:
 
         distribution_type: app_store # or: ad_hoc | development | enterprise
 
-        bundle_identifier: com.example.id
+        bundle_identifier: com.talal.id
